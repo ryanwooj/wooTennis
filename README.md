@@ -1,8 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+### wooTennis project
+This project is in progress by Ryan Woo.
+currently in development and targeting to launch in the mid April.
 
 ### `npm start`
 
